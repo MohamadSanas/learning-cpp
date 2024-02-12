@@ -18,6 +18,6 @@ int main(){
     cout<<"Enter two number to multiply: \n";
     cin>>num3;
     cin>>num4;
-    cout<<num3<<" + "<<num4<<" = "<<multiplynum(num3,num4)<<endl;
+    cout<<num3 <<" + "<<num4<<" = "<<multiplynum(num3,num4)<<endl;
     return 0;
 }
