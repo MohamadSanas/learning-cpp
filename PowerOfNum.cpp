@@ -9,7 +9,7 @@ int main(){
     cout<<"Enter the value of power: \n";
     cin>>po;
 
-    double value=pow(num,po);
+    double value=pow(num,po) ;
     cout<<value;
 
     return 0;
