@@ -23,7 +23,7 @@ int main(){
         cout<<num<<" is a prime number.";
     }
     else{
-        cout<<num<<" is not a prime number. ";
+        cout<<num<<" is not a prime number.  ";
     }
 
 }
